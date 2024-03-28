@@ -1,6 +1,6 @@
-# CourseProjectStartingProject
+# RecipeBookApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1. It's made by Nate to learn Angular and improve my Typescript skills. 
 
 ## Development server
 
